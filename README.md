@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **yusofsf/yusofsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello! Welcome to my profile
+# 👋 Hello! My Name is Yusof
 
 I am a **PHP backend developer**, with a passion about building scalable systems, developing APIs, and designing clean and structured architectures for web projects.
 
