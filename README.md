@@ -41,9 +41,3 @@ I'm open to collaborating on web projects — especially backend development wit
 ## 🔧 Currently learning
 - 🐳 **Docker** – for containerized development and deployment
 - 🧩 **Design Patterns** – to write cleaner and more maintainable code using best practices
-
-## 📫 Get in touch
-- Email: yusofsadat@gmail.com  
-- LinkedIn: [linkedin.com/in/yusof-safat-fakhr](https://linkedin.com/in/yusof-safat-fakhr)  
-
-Proud to be coding 💻
